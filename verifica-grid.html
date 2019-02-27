@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<!--style.css-->
+    <link rel="stylesheet" href="style.css">
+    
+
+    <tittle> Verifica Grid Michielin Daniel </tittle>
+    </head>
+    <body>
+      
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+    <h3> lista Componenti hardware pc </h3>
+    <ul>
+  <li>cpu</li>
+  <li>ram</li>
+  <li>Sheda video</li>
+</ul>
+    </div>
+    <div class="col-sm">
+      <h1> Minion palestrato </h1>
+      <img src="https://www.lifetrends.it/wp-content/uploads/2017/02/whatsapp-immagini-2017-7-minions-palestrato.png" width="200" height="200" alt="Minion">
+    </div>
+    <div class="col-sm">
+      <h2> Tabella frutta e verdura</h2>
+      <table style="width:100%">
+  <tr>
+    <th>Frutta</th>
+    <th>Verdura</th> 
+    
+  </tr>
+  <tr>
+    <td>Arancia</td>
+    <td>carota</td> 
+    
+  </tr>
+  <tr>
+    <td>limone</td>
+    <td>patata</td> 
+   
+  </tr>
+</table>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+    </body>
+     <script src="js/jquery-3.3.1.slim.min.js"></script>
+    <script src=js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html
